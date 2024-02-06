@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Marneyd8
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on multiple projects connected with AI in the future.
+- 👀 I’m interested in software and web development.
 - 📫 How to reach me >> adamjuhas8@gmail.com
 
 <!---
