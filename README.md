@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Marneyd8
 - 👀 I’m interested in software and web development.
-- 💻 Learned languages: Python, Java, C, C#
-- 📚 Planning to learn: React, JS, HTML, CSS
+- 💻 Interested in these languages: React, Typescript, Python, Java
 - 🏫 Currently studying at Masaryk University in Brno
 - 📫 How to reach me >> adamjuhas8@gmail.com
 
