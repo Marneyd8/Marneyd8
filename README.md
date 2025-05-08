@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Marneyd8
+- 👋 Hi, I’m Adam Juhás
 - 👀 I’m interested in software and web development.
-- 💻 Interested in these languages: React, Typescript, Python, Java
+- 💻 Interested in these languages: React, Typescript, Python, C#
 - 🏫 Currently studying at Masaryk University in Brno
 - 📫 How to reach me >> adamjuhas8@gmail.com
 
