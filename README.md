@@ -2,11 +2,11 @@
 
 # 🌟 Adam Juhás
 
-### 🖥 Software Engineer × ⚙ c# Developer
+### 🖥 Software Engineer × ⚙ C# Developer
 
 *Building the future through immersive technology and innovative solutions*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Interested+in+Software+and+Web+Developement+Wanna+become+a+FullStack+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Interested+in+Software+and+Web+Developement+%2B+Wanna+become+a+FullStack+Dev)](https://git.io/typing-svg)
 
 </div>
 
