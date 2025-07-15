@@ -72,6 +72,9 @@ Faculty of Informatics, Masaryk University — Brno, Czech Republic
 </table>
 
 </div>
+
+## 🖥 My coding preparation
+
 <div align="center">
   
 ![](https://leetcard.jacoblin.cool/adamjuhas?border=0&radius=20)
