@@ -1,9 +1,3 @@
-- 👀 I’m interested in Software and Web Development.
-- 💻 Interested in these languages: C#, React, TypeScript, Python
-- 🏫 Currently studying at Masaryk University in Brno (Ing. in Software Engineering)
-- 📫 How to reach me >> adamjuhas8@gmail.com or message me on LinkedIn
-- 💼 My portfolio >> http://marneyd8.github.io/portfolio
-
 <div align="center">
 
 # 🌟 Adam Juhás
@@ -12,7 +6,7 @@
 
 *Building the future through immersive technology and innovative solutions*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=TEST+TEST+TES+%2B+Art;Creating+Immersive+VR+Experiences;Transforming+Ideas+into+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Interested+in+FULLSTACK+%2B+Art;Creating+Immersive+VR+Experiences;Transforming+Ideas+into+Reality)](https://git.io/typing-svg)
 
 </div>
 
@@ -55,10 +49,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeetkotarya)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_3d_art_page)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sanjeetkotarya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sanjeetkotarya.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-juh%C3%A1s-a57ab3273/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adam.juhas8/?hl=sk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://marneyd8.github.io/portfolio))
 
 </div>
 
