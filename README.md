@@ -6,22 +6,16 @@
 
 *Building the future through immersive technology and innovative solutions*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Interested+in+Software+and+Web+Developement;Wanna+become+a+FullStack+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Interested+in+Software+and+Web+Developement;Wanna+become+FullStack+oriented)](https://git.io/typing-svg)
 
 </div>
-
----
-## 🎓 Education
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Masaryk%20University-FI%20Brno-004B87?style=for-the-badge&logo=academia&logoColor=white"/><br>
-<b>Bachelor’s in Informatics</b>  
-<sub>Faculty of Informatics, Masaryk University, Brno</sub>
-
+  <h3><b>🎓 Bachelor of Programming and development</b></h3>
+  Faculty of Informatics, Masaryk University — Brno, Czech Republic
+  <br/> ✅ Graduated in 2025 <br/> 
+  📚 Continuing with Master's (Ing.) in Software Engineering
 </div>
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -54,7 +48,6 @@
 
 </div>
 
----
 
 ## 🤝 My socials
 
