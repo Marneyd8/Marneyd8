@@ -6,7 +6,18 @@
 
 *Building the future through immersive technology and innovative solutions*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Interested+in+Software+and+Web+Developement+%2B+Wanna+become+a+FullStack+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Interested+in+Software+and+Web+Developement;Wanna+become+a+FullStack+Dev)](https://git.io/typing-svg)
+
+</div>
+
+---
+## 🎓 Education
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Masaryk%20University-FI%20Brno-004B87?style=for-the-badge&logo=academia&logoColor=white"/><br>
+<b>Bachelor’s in Informatics</b>  
+<sub>Faculty of Informatics, Masaryk University, Brno</sub>
 
 </div>
 
@@ -52,6 +63,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-juh%C3%A1s-a57ab3273/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adam.juhas8/?hl=sk)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://marneyd8.github.io/portfolio)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/adamjuhas/)
 
 </div>
 
